@@ -30,7 +30,9 @@ gem 'spring',        group: :development
 gem 'devise', '~> 3.3.0'
 
 # Gem Bootstrap sass
-gem 'bootstrap-sass', '3.2.0.2'
+gem 'bootstrap-sass', '~> 3.2.0.2'
+
+gem 'acts_as_votable', ' 0.10.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
